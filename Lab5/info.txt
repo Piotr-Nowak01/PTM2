@@ -1,1 +1,2 @@
-Jak tylko skończę robić sprawko to wrzucę tu wszystkie potrzebne pliki i pdfa.
+Schemat działa na wersji Simulide 0.4.13 - nie wiem czy działa na innych wersjach.
+Trzeba dobrze ustawić parametry ocsyloskopu by złapać takiego screena jakiego ja mam w sprawku.
